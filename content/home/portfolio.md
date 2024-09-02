@@ -30,8 +30,8 @@ content:
       tag: '*'
     - name: Community Management
       tag: CM
-    - name: Social Media Management
-      tag: SMM
+    - name: Content Creation
+      tag: CC
     - name: Event Management
       tag: EM
 
