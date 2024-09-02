@@ -7,9 +7,9 @@ date: 2024-09-01
 draft: false
 ---
 
-![Community Management Hero](hero-image.jpg)
+![Community Management Hero](featured.png)
 
-As a dynamic Community Specialist with a strong background in linguistics and computational linguistics, I have cultivated vibrant online communities in both academic and professional settings. My experience spans across various platforms, where I have leveraged my skills in cross-cultural communication, social media strategy, and content creation to enhance engagement and foster inclusive environments.
+As a dynamic Community Specialist with a strong background in linguistics and computational linguistics, I have cultivated vibrant in-person and online communities in both academic and professional settings. My experience spans across various platforms, where I have leveraged my skills in cross-cultural communication, social media strategy, and content creation to enhance engagement and foster inclusive environments.
 
 ### Key Skills
 
