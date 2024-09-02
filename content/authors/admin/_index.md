@@ -70,4 +70,4 @@ With 12 years of experience in academic and professional settings in the U.S. an
 
 Damian brings boundless passion to every project.
 
-<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
