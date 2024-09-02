@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: ExplosionAI
+      tag: EAI
+    - name: Univsersity of Arizona Libraries
+      tag: UAz
+    - name: Events
+      tag: EV
 
 design:
   columns: '1'
