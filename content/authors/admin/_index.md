@@ -10,7 +10,7 @@ role: 'Community Specialist'
 
 # Status emoji
 status:
-  icon: 🟢
+  icon: ✉️
 
 # Organizations/Affiliations
 #organizations:
@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:dromero.coveted010@passfwd.com' # For a direct email link, use "mailto:test@example.org".
+    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/damian-romero/
@@ -56,12 +56,12 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "dromero.coveted010@passfwd.com"
+#email: ""
 ---
 
 Damian is a community manager with a strong background in fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
