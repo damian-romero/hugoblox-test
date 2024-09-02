@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: ExplosionAI
-      tag: EAI
-    - name: Univsersity of Arizona Libraries
-      tag: UAz
-    - name: Events
-      tag: EV
+    - name: Community Management
+      tag: CM
+    - name: Social Media Management
+      tag: SMM
+    - name: Event Management
+      tag: EM
 
 design:
   columns: '1'
