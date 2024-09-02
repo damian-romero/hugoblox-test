@@ -46,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:dromero.coveted010@passfwd.com' # For a direct email link, use "mailto:test@example.org".
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/damian-romero/
