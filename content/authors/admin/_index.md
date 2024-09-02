@@ -1,41 +1,43 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Damian Romero
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: ''
+role: 'Community Specialist'
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ✉️
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: Lorem Ipsum
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Linguist and Educator with a background in community and social media management.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Human-Human Communication
+- Human-Computer Communication
+- Artificial Intelligence
+- Computational Linguistics
+- Education
 
-#education:
-#  courses:
-#  - course: PhD in Artificial Intelligence
-#    institution: Stanford University
-#    year: 2012
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+education:
+ courses:
+ - course: M.S. in Human Language Technology
+   institution: The University of Arizona
+   year: 2023
+ - course: M.A. in Hispanic Linguistics
+   institution: The University of Arizona
+   year: 2014
+ - course: B.A. in Linguistics
+   institution: Autonomous University of Queretaro
+   year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -45,16 +47,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://www.linkedin.com/in/damian-romero/
+  - icon: github
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://github.com/damian-romero
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +64,10 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Damian is a community manager with a strong background in fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With 12 years of experience in academic and professional settings in the U.S. and Germany, he has near-native English proficiency and strong cross-cultural communication skills. His data-driven approach to community management leverages analytics to boost engagement strategies. A self-starter and fast learner,
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Damian brings boundless passion to every project.
+
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
