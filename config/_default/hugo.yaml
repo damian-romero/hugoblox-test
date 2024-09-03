@@ -15,10 +15,10 @@ cascade:
   - _target:
       path: /post/**
     editable: true
-    reading_time: false
-    commentable: false
-    show_related: false
-    show_breadcrumb: false
+    reading_time: true
+    commentable: true
+    show_related: true
+    show_breadcrumb: true
 
 ############################
 ## LANGUAGE
