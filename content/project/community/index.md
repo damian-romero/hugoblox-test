@@ -7,7 +7,7 @@ date: 2024-09-01
 draft: false
 ---
 
-![Community Management Hero](assets/images/cm-hero.png)
+![Community Management Hero](assets/images/community.png)
 
 I have cultivated vibrant in-person and online communities in both academic and professional settings. My experience spans across various platforms, where I have leveraged my skills in cross-cultural communication, social media strategy, and content creation to enhance engagement and foster inclusive environments.
 
@@ -15,19 +15,19 @@ I have cultivated vibrant in-person and online communities in both academic and 
 
 <div class="skills-section">
   <div class="skill">
-    <img src="assets/media/icons/social-media-svg.svg.svg" alt="Social Media Management" />
+    <img src="assets/media/icons/icon.png" alt="Social Media Management" />
     **Social Media Management**: Proficient in using tools like Hootsuite, Slack, Discord, LinkedIn, and Instagram for community engagement.
   </div>
   <div class="skill">
-    <img src="icons/content-creation.png" alt="Content Creation" />
+    <img src="assets/media/icons/icon.png" alt="Content Creation" />
     **Content Creation**: Expertise in crafting engaging content tailored to diverse audiences, enhancing interaction and community participation.
   </div>
   <div class="skill">
-    <img src="icons/cross-cultural-communication.png" alt="Cross-Cultural Communication" />
+    <img src="assets/icons/content-creation.png" alt="Cross-Cultural Communication" />
     **Cross-Cultural Communication**: Strong ability to manage multilingual communities and bridge cultural gaps through effective communication strategies.
   </div>
   <div class="skill">
-    <img src="icons/data-driven-strategies.png" alt="Data-Driven Strategies" />
+    <img src="assets/icons/cross-cultural-communication.png" alt="Data-Driven Strategies" />
     **Data-Driven Strategies**: Utilizing analytics to refine engagement strategies and improve community responsiveness.
   </div>
 </div>
