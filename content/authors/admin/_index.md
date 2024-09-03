@@ -64,7 +64,7 @@ social:
 #email: ""
 ---
 
-Damian is a community manager with a strong background in fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
+Damian is a linguist and educator with a strong background community management and fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
 
 With 12 years of experience in academic and professional settings in the U.S. and Germany, he has near-native English proficiency and strong cross-cultural communication skills. His data-driven approach to community management leverages analytics to boost engagement strategies. A self-starter and fast learner,
 
