@@ -43,7 +43,7 @@ experience:
   - title: B.A. Hispanic Linguistics and Language Teaching
     company: Autonomous University of Queretaro
     company_url: ''
-    company_logo: org-x
+    company_logo: logo_uaq
     location: Queretaro, Mexico
     date_start: '2007-09-01'
     date_end: '2012-06-01'
