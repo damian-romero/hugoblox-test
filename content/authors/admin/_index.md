@@ -56,15 +56,15 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Damian is a linguist and educator with a strong background community management and fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
+Damian is a linguist and educator with a strong background in community management and fostering vibrant online communities. His training in linguistics and computational linguistics provides him with unique insights into creative writing and advanced AI usage for multilingual content creation.
 
 With 12 years of experience in academic and professional settings in the U.S. and Germany, he has near-native English proficiency and strong cross-cultural communication skills. His data-driven approach to community management leverages analytics to boost engagement strategies. A self-starter and fast learner,
 
