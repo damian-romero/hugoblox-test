@@ -85,24 +85,6 @@ I have cultivated vibrant in-person and online communities in both academic and 
   </div>
 </div>
 
-### Portfolio & Testimonials
-
-<div class="portfolio-section">
-  <a href="https://community-management.d-romero.com/" class="portfolio-link">View Full Portfolio</a>
-</div>
-
-<div class="testimonials-section">
-  <h4>Testimonials</h4>
-  <blockquote>
-    "Damian's approach to community management is both innovative and effective. His strategies have significantly boosted our engagement levels."  
-    — *Client Name, Position*
-  </blockquote>
-  <blockquote>
-    "Working with Damian was a game-changer for our community outreach. His cross-cultural insights were invaluable."  
-    — *Colleague Name, Position*
-  </blockquote>
-</div>
-
 ### Contact
 
 Interested in collaborating or have questions? [Get in touch](mailto:damian@d-romero.com).
