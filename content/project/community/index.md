@@ -15,11 +15,10 @@ I have cultivated vibrant in-person and online communities in both academic and 
 
 ### Key Skills
 
-{{< icon name="custom/sm" >}}
-* {{< icon name="custom/microsoft" >}} **Social Media Management**: Proficient in using tools like Hootsuite, Slack, Discord, LinkedIn, and Instagram for community engagement.
-* {{< icon name="custom/microsoft" >}} **Content Creation**: Expertise in crafting engaging content tailored to diverse audiences, enhancing interaction and community participation.
-* {{< icon name="custom/microsoft" >}} **Cross-Cultural Communication**: Strong ability to manage multilingual communities and bridge cultural gaps through effective communication strategies.
-* {{< icon name="custom/microsoft" >}} **Data-Driven Strategies**: Utilizing analytics to refine engagement strategies and improve community responsiveness.
+* {{< icon name="custom/sm.svg" >}} **Social Media Management**: Proficient in using tools like Hootsuite, Slack, Discord, LinkedIn, and Instagram for community engagement.
+* {{< icon name="custom/sm.svg" >}} **Content Creation**: Expertise in crafting engaging content tailored to diverse audiences, enhancing interaction and community participation.
+* {{< icon name="custom/sm.svg" >}} **Cross-Cultural Communication**: Strong ability to manage multilingual communities and bridge cultural gaps through effective communication strategies.
+* {{< icon name="custom/sm.svg" >}} **Data-Driven Strategies**: Utilizing analytics to refine engagement strategies and improve community responsiveness.
 
 ### Experience Highlights
 
